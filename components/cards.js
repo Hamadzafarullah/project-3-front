@@ -1,4 +1,4 @@
-import Travelapp from "../Travelapp"
+import Travel from "./Travelapp.js"
 
 
 function cards(){
